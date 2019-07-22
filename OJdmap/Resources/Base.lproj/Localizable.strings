@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  InfinityTracker
+
+  Created by Marco Boschi on 25/04/2018.
+  Copyright © 2018 Marco Boschi. All rights reserved.
+*/
+
+"CANCEL" = "Cancel";
+"ERROR" = "Error";
+
+"END_WRKT_CONFIRM" = "Are you sure you want to stop and save your workout?";
+"CANCEL_WRKT_CONFIRM" = "Are you sure you want to abandon your workout and lose all your progress?";
+"MOTIVATIONAL_TEXT" = "It's time to start moving!";
+
+// Annotations for displaying route
+"START" = "Start";
+"END" = "End";
+
+// Complete&Save/Cancel workout
+"STOP" = "Stop";
+"LEAVE" = "Leave";
+
+// Pause workout
+"PAUSE" = "Pause";
+"RESUME" = "Resume";
+
+// Detail view
+"DISTANCE" = "Distance";
+"DURATION" = "Duration";
+"CALORIES" = "Calories";
+"PACE" = "Pace";
+
+// About
+"REPORT_TEXT" = "Report any problem also on Twitter @piscoTech or at GitHub tapping Source Code.";
+
+// MARK: - Workout Types
+"RUN" = "Run";
+"WALK" = "Walk";
+
+"NEW_RUN" = "New Run";
+"NEW_WALK" = "New Walk";
+
+"LONG_PRESS_CHANGE_RUN" = "Long press to track runs";
+"LONG_PRESS_CHANGE_WALK" = "Long press to track walks";
+
+// MARK: - Errors
+
+"WEIGHT_SAVE_ERROR" = "Cannot save weight";
+"WARN_HEALTH_ACCESS_MISSING" = "Health Permission Missing";
+"WARN_HEALTH_ACCESS_MISSING_BODY" = "Your workout will be saved only partially or not saved at all because some pemissions are missing for Health access. Go to the Health app, Sources tab to change them.";
+
+// MARK: - Location Permissions
+
+"LOCATION_REQUIRED" = "Location Required";
+"LOCATION_REQUIRED_TEXT" = "Location data is needed to track your workouts";
+"LOCATION_SETTINGS_OPEN" = "Settings";

@@ -1,4 +1,4 @@
-# InfinityTracker
+# RunTracker
 Track your progress while running or walking in a simple way. Open the app and hit start to:
 - Track your location and route in realtime on a map
 - Accurately calculate calories using your latest weight entry from the Health app
@@ -18,6 +18,4 @@ General behaviour of the app can be configured via properties of `HealthKitManag
 
 The algorithm that takes care of tracking workout route, distance, calories burned and pace can be tweaked via the properties `dropThreshold`, `moveCloserThreshold`, `thresholdSpeed`, `accuracyInfluence`, `routeTimeAccuracy`, `detailsTimePrecision` and `paceTimePrecision` of `RunBuilder` class. For additional details refer to in-code documentation.
 
-## Acknowledgements
-Original work and core logic of the app by [Alexandre Linares](https://github.com/alekszilla/InfinityTracker).
-# RunTracker
+
